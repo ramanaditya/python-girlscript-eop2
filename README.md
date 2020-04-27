@@ -48,6 +48,12 @@
 - Final Coding
 - Reference 
 
+Resources
+1. https://www.py4e.com/  : For Beginners and First Timers from Charles Severence
+2. https://www.youtube.com/watch?v=rfscVS0vtbw&t=19s : FreeCodeCamp
+3. https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6 : Microsoft Developers
+4. https://developers.google.com/edu/python : Google’s Python Class
+
 ## Mentors
 - Aditya Raman
 - Mahir Gupta
