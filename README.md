@@ -16,36 +16,30 @@
 - List 
 - Tuples 
 - Dictionary 
-- Quiz
 - Coding
 
 ### Day3
 - Decision making
 - Control flow(loops)
 - Loop control statements
-- Quiz
 - Coding
 
 ### Day4
 - Functions 
 - Files 
 - Intro to OOPs
-- Quiz
 - Coding 
-- Discussion 
 
 ### Day5
 - Classes and Objects
 - Constructors
 - Destructors
-- Quiz 
 - Coding
 
 ### Day6
 - Inheritance 
 - Polymorphism
 - Discuss about the project
-- Quiz 
 - Coding 
 
 ### Day7
