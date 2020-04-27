@@ -1,6 +1,8 @@
 # Python for Beginners : GirlScript Outreach 2
 ## DAY - 1
 
+## [Presentation](https://docs.google.com/presentation/d/1Xlp3rb8nBdUEoj-_jv01YMDVTJiYNSrF0D8yXO_Czqw/edit?usp=sharing)
+
 ## Hackerrank Contest
 
 Signup Count:100
