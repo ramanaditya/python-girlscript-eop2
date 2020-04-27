@@ -16,7 +16,7 @@
 - List 
 - Tuples 
 - Dictionary 
-- Coding
+- Coding : [https://www.hackerrank.com/lists-tuples-dictionary](https://www.hackerrank.com/lists-tuples-dictionary)
 
 ### Day3
 - Decision making

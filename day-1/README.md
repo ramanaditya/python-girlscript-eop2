@@ -5,11 +5,11 @@
 
 ## Hackerrank Contest
 
-Signup Count:100
-Total Cumulative Signups:100 (includes signups after the end of the contest)
-Login Count:87
-Login Conversion Rate:87.00 %
-Number of Users Who Submitted Code:67
+- Signup Count:100
+- Total Cumulative Signups:100 (includes signups after the end of the contest)
+- Login Count:87
+- Login Conversion Rate:87.00 %
+- Number of Users Who Submitted Code:67
 
 ### Top 3
 - vikramrebel555
