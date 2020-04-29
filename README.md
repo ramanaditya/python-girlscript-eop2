@@ -22,7 +22,7 @@
 - Decision making
 - Control flow(loops)
 - Loop control statements
-- Coding
+- Coding : [https://www.hackerrank.com/decision-making-statements-and-loops](https://www.hackerrank.com/decision-making-statements-and-loops)
 
 ### Day4
 - Functions 
